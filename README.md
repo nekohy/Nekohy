@@ -1,6 +1,6 @@
 # 👋 你好 | Hello
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=nekohy&show_icons=true&bg_color=#1f2228ff">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=nekohy&show_icons=true&bg_color=1f2228ff">
 
 > 你好
 
