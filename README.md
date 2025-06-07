@@ -1,4 +1,4 @@
-<table>
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td valign="top">
       # 👋 你好
@@ -10,7 +10,6 @@
     </td>
   </tr>
 </table>
-
 ---
 
 ## 🛠️ 语言栈 | Tech Stack
