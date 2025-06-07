@@ -1,15 +1,8 @@
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td valign="top">
-      # 👋 你好
-      <p>我叫花月喵梦，似笨蛋</p>
-      <p>很高兴认识你</p>
-    </td>
-    <td valign="top" align="right">
-      <img src="https://github-readme-stats.vercel.app/api?username=Nekohy&show_icons=true&theme=transparent" alt="Nekohy's GitHub stats" />
-    </td>
-  </tr>
-</table>
+# 👋 你好 | Hello
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=sakurakoi&count_private=true&show_icons=true">
+> 你好，我叫花月喵梦
+> 似笨蛋
+> 很高兴认识你
 ---
 
 ## 🛠️ 语言栈 | Tech Stack
