@@ -4,10 +4,8 @@
   <tr>
     <td valign="top">
       # 👋 你好
-      <br>
-      我叫花月喵梦，似笨蛋
-      <br><br>
-      很高兴认识你 
+      <p>我叫花月喵梦，似笨蛋</p>
+      <p>很高兴认识你</p>
     </td>
     <td valign="top" align="right">
       <img src="https://github-readme-stats.vercel.app/api?username=Nekohy&show_icons=true&theme=transparent" alt="Nekohy's GitHub stats" />
@@ -35,5 +33,3 @@
 
 *   **前端项目？** 达咩
 *   **开发环境：** `WSL2` + `Win11` 
-*   **~~涩涩？~~** ~~哪里有涩涩...
-
