@@ -1,11 +1,11 @@
-# 👋 你好！
+# 👋 你好
 
 我叫花月喵梦，似笨蛋
 
 很高兴认识你 
 
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=Nekohy&show_icons=true&theme=transparent" alt="Nekohy's GitHub stats" />
 </p>
 
